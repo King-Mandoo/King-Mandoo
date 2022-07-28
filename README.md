@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Helloooooooooo!!<hr> Korea 🇰🇷🇰🇷🇰🇷🇰🇷</h1>
+<h1>Helloooooooooo!!</h1>
 
 <!--
 **King-Mandoo/King-Mandoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
